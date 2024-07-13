@@ -1,0 +1,17 @@
+dict1 = {'1':'Virat','2':'Rohit','3':'Worldcup'}
+print(dict1)
+print(dict1['1'])
+print(dict1.get('1'))
+print(dict1.keys())
+print(dict1.values())
+print(dict1.items())
+dict1.update({'4':'Rahul'})
+print(dict1)
+dict1.pop('4')
+print(dict1)
+dict1.popitem()
+print(dict1)
+dict1.clear()
+print(dict1)
+del dict1
+#print(dict1)
