@@ -1,0 +1,34 @@
+🟢 LEVEL 1: Absolute Basics (Build Confidence)
+Print "Hello, Python"
+Take a number input and print it
+Add two numbers
+Find square of a number
+Check if a number is even or odd
+Find largest of two numbers
+Swap two variables (without third variable)
+Convert Celsius to Fahrenheit
+Check if a number is positive, negative, or zero
+Print numbers from 1 to 10
+🟡 LEVEL 2: Logic Building
+Sum of first N numbers
+Factorial of a number
+Multiplication table of a number
+Count digits in a number
+Reverse a number
+Check palindrome number
+Find GCD of two numbers
+Find LCM of two numbers
+Print Fibonacci series (n terms)
+Check if number is prime
+🟠 LEVEL 3: Lists (Important Step)
+Find largest element in a list
+Find second largest number
+Remove duplicates from list
+Count even and odd numbers
+Find sum of all elements
+Sort a list without using sort()
+Merge two lists
+Find common elements in two lists
+🔵 LEVEL 4: Strings (Real Thinking Starts)
+Count vowels and consonants in a string
+Check if a string is palindrome
